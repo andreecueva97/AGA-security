@@ -1,12 +1,12 @@
 # AGA-security
 Resumen de proyectos a desplejar
 
-<h1>OpenSearch<h1/>
+<h2>OpenSearch<h2/>
   
   
-<h1>HoneyPot<h1/>
+<h2>HoneyPot<h2/>
   
-<h1>PowerAutomate<h1/>
+<h2>PowerAutomate<h2/>
  
 
-<h1>Power Bi<h1/>
+<h2>Power Bi<h2/>
