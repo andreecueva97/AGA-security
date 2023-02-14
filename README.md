@@ -13,6 +13,13 @@
 
 # AGA-security
 Resume a projects to deploy
+<h4>opensearch/elasticsearch</h4>
+<h4>snort</h4>
+<h4>honeypot</h4>
+<h4>powerautomate</h4>
+<h4>falcon crowdstrike</h4>
+<h4>fortianalyzer</h4>
+<h4>powerbi</h4>
 
 <h2>OpenSearch<h2/>
   
