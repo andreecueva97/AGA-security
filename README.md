@@ -1,9 +1,6 @@
 # AGA-security
 Resumen de proyectos a desplejar
 
-<h1>hola<h1/>
-
-
 <h1>OpenSearch<h1/>
   
   
