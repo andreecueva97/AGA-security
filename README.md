@@ -12,7 +12,7 @@
 <!-- Fin de formato de fuentes-->
 
 # AGA-security
-Resumen de proyectos a desplejar
+Resume a projects to deploy
 
 <h2>OpenSearch<h2/>
   
