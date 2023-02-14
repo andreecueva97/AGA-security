@@ -1,7 +1,7 @@
 
 # AGA-Security
 
-<img src="images/AGA Security.jpg" width=90%/>
+<img src="images/AGA Security.jpg" width=90% position="center"/>
 <!-- Formato de fuentes -->
      <!-- Formato de Listas-->
      
