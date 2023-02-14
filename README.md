@@ -1,7 +1,7 @@
 
 # AGA-Security
 ![alt text](https://github.com/andreecueva97/AGA-security/blob/main/AGA-security/images/AGA Security.jpg?raw=true)
-<img src="AGA-security/images/AGA Security.jpg" width="128"/>
+<img src="images/AGA Security.jpg" width="128"/>
 <!-- Formato de fuentes -->
      <!-- Formato de Listas-->
      
