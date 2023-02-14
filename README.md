@@ -1,4 +1,6 @@
-#AGA-Security
+
+# AGA-Security
+[tekst alternatywny](url grafiki)
 
 <!-- Formato de fuentes -->
      <!-- Formato de Listas-->
