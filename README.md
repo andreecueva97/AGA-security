@@ -1,6 +1,6 @@
 
 # AGA-Security
-[tekst alternatywny](url grafiki)
+![alt text](https://github.com/andreecueva97/AGA-security/blob/main/images/AGA Security.jpg?raw=true)
 
 <!-- Formato de fuentes -->
      <!-- Formato de Listas-->
