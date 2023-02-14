@@ -12,7 +12,7 @@ Resumen de proyectos a desplejar
 <h2>Power Bi<h2/>
 
   
-<h2>Temas Generalesh2/>
+<h2>Temas Generales<h2/>
  <ul>
   <li>Brindar soporte metodológico a la gerencia de ciberseguridad durante el despliegue de nueve iniciativas de su plan de cibertransformacion.</li>
   <li>Soporte en temas de incidentes de ciberseguridad.</li>
