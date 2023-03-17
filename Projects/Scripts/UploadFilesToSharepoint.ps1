@@ -12,5 +12,6 @@ Connect-PnPOnline -Url $URL -Credentials $credential
 $Files = Get-ChildItem "C:\Users\pcpc\Desktop\AA"
 foreach($File in $Files){
     Add-PnPFile -Folder "Documentos Compartidos" -Path $File.FullName
-
+    #Remove-Item -Path $File.FullName
+    #Move-Item -Path $File.FullName -Destination "dfasfdadfafds/fadsffd/sfadfadsfs/eewrewr/dfasf"
 }
