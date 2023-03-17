@@ -1,0 +1,4 @@
+#you need install module
+Install-Module SharePointPnPPowerShellOnline
+or 
+Install-Module PnP.PowerShell
